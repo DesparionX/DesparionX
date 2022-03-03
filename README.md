@@ -7,7 +7,6 @@
 -     1. LinkedIn - https://www.linkedin.com/in/deyvid-manolov-392a33178/
 -     2. Facebook - https://www.facebook.com/DesparionX/
 -     3. Discord - Manolov#2502
--     4. Mail - dmanolovx@gmail.com
 
 <!---
 DesparionX/DesparionX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
