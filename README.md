@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deyvid (@DesparionX)
--     I'm self taught entry level software engineer from Bulgaria with zero experience.
--     And I'm looking for my first programmer job.
-- 👀 I’m interested in software engineering (C#)/ Web apps with Blazor.
+-     I'm self taught entry level Web / Software developer from Bulgaria with zero experience.
+-     And I'm looking for my first job.
+- 👀 I’m interested in Web / Software developing (Angular / C# / Blazor ).
 - 🌱 I’m currently learning C# 
 - 📫 How to reach me ...
 -     2. Facebook - https://www.facebook.com/DesparionX/
